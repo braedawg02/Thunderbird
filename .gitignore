@@ -80,3 +80,4 @@ $RECYCLE.BIN/
 .vscode/
 .idea/
 *.swp
+/Test/TbirdSlideTest
